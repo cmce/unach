@@ -1,0 +1,25 @@
+<html>
+	<head><title>Ejemplo 1</title></head>
+	<body>
+	
+	
+	<center>
+	<b> Ejemplo de una Tabla en HTML </b><br>
+	
+	<table border="1" width="300">
+	<tr>
+		<th>Mat</th>
+		<th>Nombre</th>
+		<th>Promedio</th>
+	</tr>
+	<tr>
+		<td>B1044578</td>
+		<td>Mauricio Rojas</td>
+		<td>9.50</td>
+	</tr>
+	</table>
+	</center>
+	
+	
+	</body>
+</html>
